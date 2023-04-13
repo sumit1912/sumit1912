@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sumit Kumar.
-- 👀 I’m interested in coding, application development or I should say learning new stuffs in general.
-- 🌱 I’m currently learning Angular framework and Kubernetes.
+- 👀 I’m interested in coding, cloud engineering, system designing or I should say learning new stuffs in general.
 - 📫 You can contact me at sumitkr1912@gmail.com
 
 <!---
